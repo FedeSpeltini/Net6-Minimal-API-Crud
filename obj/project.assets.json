@@ -2086,11 +2086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fede\\Programacion\\Proyectos\\Net6\\BookShop\\BookShop.csproj",
+      "projectUniqueName": "E:\\Fede\\Programacion\\Proyectos\\Net6\\Books\\Net6-Minimal-API-Crud\\BookShop.csproj",
       "projectName": "BookShop",
-      "projectPath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\BookShop\\BookShop.csproj",
+      "projectPath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\Books\\Net6-Minimal-API-Crud\\BookShop.csproj",
       "packagesPath": "C:\\Users\\fedes\\.nuget\\packages\\",
-      "outputPath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\BookShop\\obj\\",
+      "outputPath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\Books\\Net6-Minimal-API-Crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fedes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2160,7 +2160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.111\\RuntimeIdentifierGraph.json"
       }
     }
   }

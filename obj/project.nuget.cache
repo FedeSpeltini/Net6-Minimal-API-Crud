@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "73g9c7N8qtY8VPZdF7GABgIhw3/Rh4flmX3qtIC7SfmoU4WJ9fC5PoC5jBjJ/tl+7VfwOJTYkFuTyjvGCvQIWg==",
+  "dgSpecHash": "CThUeuncfQ+oIL9YcAX+z/a+pAnl87h2t+XPy/uGlUQ4v6yj8rdCmEjJ2Pud1QVPPdEjEmXot2Rx97gqAOZhYw==",
   "success": true,
-  "projectFilePath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\BookShop\\BookShop.csproj",
+  "projectFilePath": "E:\\Fede\\Programacion\\Proyectos\\Net6\\Books\\Net6-Minimal-API-Crud\\BookShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fedes\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\fedes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
